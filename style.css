@@ -1,0 +1,18 @@
+#cal-main {
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    margin: 0 auto;
+}
+
+.all-dic {
+    margin: 10px;
+}
+
+#btn-c {
+    width: 60px;
+}
+
+#btn- {
+    width: 50px;
+}
