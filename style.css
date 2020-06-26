@@ -1,8 +1,9 @@
 #cal-main {
-    width: 200px;
+    width: 160px;
     height: 200px;
     border: 2px solid black;
     margin: 0 auto;
+    background-color: gray;
 }
 
 .all-dic {
@@ -15,4 +16,17 @@
 
 #btn- {
     width: 50px;
+}
+
+#result {
+    width: 135px;
+    box-shadow: 2px 2px 8px black;
+}
+
+#all {
+    width: 105px;
+}
+
+button {
+    box-shadow: 2px 2px 8px black;
 }
